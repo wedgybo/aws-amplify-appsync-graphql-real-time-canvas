@@ -1,6 +1,7 @@
 {
   "name": "react-draw",
   "version": "0.1.0",
+  "homepage": "/app1/",
   "private": true,
   "dependencies": {
     "aws-amplify": "^1.1.22",
